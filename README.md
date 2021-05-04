@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @fredrelly
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+fredrelly/fredrelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+# Set git language to English #alias git='LC_ALL=en_US git' alias git='LC_ALL=en_GB git'
+
+Fuente: https://www.iteramos.com/pregunta/56719/como-cambiar-el-idioma-de-la-interfaz-de-linea-de-comandos-de-git
